@@ -11,7 +11,8 @@ let octal   = 0o21
 let suma   =   decimal   +   octal       //   #=>   34
 
 
-
+//   Float
+let    gramos:    Float    =    85.32
 
 
 
