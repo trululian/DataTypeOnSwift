@@ -6,9 +6,10 @@ let    estrellasEnElCielo   =    1_000_000     //   Puedes   usar   _   entre   
 
 let decimal   =    21
 let binario   =    0b10001                       //   17   en   notación   binaria
-let octal   = 0o21
-let  hexadecimal   =    0x11
+let    exponente   =    1.21875e1
+let    hexadecimal   =    0xC.3p0
 
+let octal   = 0o21
 let suma   =   decimal   +   octal       //   #=>   34
 
 
@@ -16,6 +17,7 @@ let suma   =   decimal   +   octal       //   #=>   34
 let    gramos:    Float    =    85.32
 
 // cambios
+
 
 
 
