@@ -4,12 +4,12 @@ let    autosEnLaCochera   =    2
 let    estrellasEnElCielo   =    1_000_000     //   Puedes   usar   _   entre   números
 
 
-let decimal   =    17
-let binario   =    0b10001                       //   17   en   notación   binaria
+let    decimal   =    12.1875
+let    exponente   =    1.21875e1
+let    hexadecimal   =    0xC.3p0
 let octal   = 0o21
-let  hexadecimal   =    0x11
-
 let suma   =   decimal   +   octal       //   #=>   34
+
 
 
 
