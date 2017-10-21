@@ -12,6 +12,7 @@ let  hexadecimal   =    0x11
 let suma   =   decimal   +   octal       //   #=>   34
 
 
-
+//   Float
+let    gramos:    Float    =    85.32
 
 
